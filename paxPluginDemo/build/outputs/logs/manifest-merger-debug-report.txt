@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:5:5-44
+		INJECTED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:19.1.0] D:\AndroidDemo\MyCashier\paxPluginDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:12:22-81
+application
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:14:5-73:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] D:\AndroidDemo\MyCashier\paxPluginDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:17:9-38
+	android:theme
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:15:9-50
+activity#com.pax.d820.MainActivity
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:20:9-25:20
+	android:label
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:23:13-45
+	android:configChanges
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:22:13-59
+	android:theme
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:21:13-53
+activity#com.pax.d820.activity.ActivitySignature
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:26:9-31:20
+	android:screenOrientation
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:30:13-50
+	android:label
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:29:13-45
+	android:configChanges
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:27:13-67
+activity#com.pax.d820.activity.ActivityScan
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:32:9-36:20
+	android:label
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:35:13-45
+	android:configChanges
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:34:13-59
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:33:13-62
+activity#com.pax.d820.activity.ActivityPrint
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:37:9-41:20
+	android:label
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:40:13-45
+	android:configChanges
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:39:13-59
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:38:13-63
+activity#com.pax.d820.activity.ActivityPrintDev
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:42:9-47:20
+	android:label
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:45:13-45
+	android:configChanges
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:44:13-59
+	android:theme
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:43:13-66
+activity#com.pax.d820.activity.ActivityDevManage
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:48:9-59:20
+	android:screenOrientation
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:52:13-50
+	android:label
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:51:13-45
+	android:configChanges
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:50:13-59
+	android:theme
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:49:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:57:27-74
+activity#com.pax.d820.activity.ActivityReadCard
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:60:9-66:20
+	android:screenOrientation
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:64:13-50
+	android:label
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:63:13-45
+	android:configChanges
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:62:13-59
+	android:theme
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:61:13-66
+receiver#com.pax.e820.receiver.BootupReceiver
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:68:9-72:20
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:68:19-70
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:69:13-71:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:70:17-79
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:70:25-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:75:5-81
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:75:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:78:5-68
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:78:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:79:5-74
+	android:name
+		ADDED from D:\AndroidDemo\MyCashier\paxPluginDemo\src\main\AndroidManifest.xml:79:22-71

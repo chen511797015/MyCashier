@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+     >
+    
+    <ImageView 
+        android:id="@+id/iv_back"
+        android:layout_width="10.5dp"
+        android:layout_height="18.5dp"
+        android:src="@drawable/btn_left_icon_back"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        />
+    
+    <TextView 
+        android:id="@+id/tv_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:textSize="@dimen/textsize9"
+        android:textColor="@color/white"
+        />
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="238.5dp"
+        android:textSize="@dimen/textsize4"
+        android:textColor="@color/white"
+        android:text="@string/please_select_mode_of_payment"
+        />
+    
+    <Button 
+        android:id="@+id/btn_weixin"
+        android:layout_width="253.5dp"
+        android:layout_height="167dp"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="288dp"
+        android:background="@drawable/btn_weixin_pay"
+        />
+    
+    <Button 
+        android:id="@+id/btn_yinhang"
+        android:layout_width="253.5dp"
+        android:layout_height="167dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="288dp"
+        android:background="@drawable/btn_yinhang_pay"
+        />
+    
+    <Button 
+        android:id="@+id/btn_zhifubao"
+        android:layout_width="253.5dp"
+        android:layout_height="167dp"
+        android:layout_marginRight="55dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="288dp"
+        android:background="@drawable/btn_zhifubao_pay"
+        />
+
+</RelativeLayout>

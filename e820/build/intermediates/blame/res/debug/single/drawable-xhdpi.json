@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_header_bg.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_header_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_icon_back_pressed.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_icon_back_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zhifubao_p.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\zhifubao_p.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\more_icon_nor.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\more_icon_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_icon_add_def.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\main_icon_add_def.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\price_button_nor.9.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\price_button_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\done_button_nor.9.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\done_button_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_textbox_bg.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\main_textbox_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yinhang_p.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\yinhang_p.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\weixin.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\weixin.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_button_print_presssed.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_button_print_presssed.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_btn_sel.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\right_btn_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bar.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\bar.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\weixin_p.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\weixin_p.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yinhang.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\yinhang.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nav_button_nor.9.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\nav_button_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\done_button_pre.9.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\done_button_pre.9.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bar_button_pre.9.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\bar_button_pre.9.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\more_print.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\more_print.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pop_over.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\pop_over.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\nav_button_pre.9.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\nav_button_pre.9.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bt_disconnected.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\bt_disconnected.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_icon_seat.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_icon_seat.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\price_button_pre.9.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\price_button_pre.9.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_button_amount_presssed.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_button_amount_presssed.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\more_amount.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\more_amount.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mainpage_menu.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\mainpage_menu.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\split_line.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\split_line.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_button_print.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_button_print.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\empty.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\empty.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hall.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\hall.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\normal_button_pre.9.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\normal_button_pre.9.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_button_nor.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\add_button_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_btn_def.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\right_btn_def.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\more_icon_pre.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\more_icon_pre.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\reduce_button_nor.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\reduce_button_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_textbox.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\main_textbox.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_wcd.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\icon_wcd.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_icon_reduce_def.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\main_icon_reduce_def.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\zhifubao.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\zhifubao.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\reduce_button_pre.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\reduce_button_pre.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bt_connected.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\bt_connected.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\normal_button_nor.9.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\normal_button_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_button_amount.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_button_amount.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_icon_reduce_pressed.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\main_icon_reduce_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_print.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\icon_print.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add_button_pre.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\add_button_pre.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bar_button_nor.9.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\bar_button_nor.9.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_bg.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_icon_back.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_icon_back.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_icon_person.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_icon_person.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_icon_time.png",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable-xhdpi\\left_icon_time.png"
+    }
+]

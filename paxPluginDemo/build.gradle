@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        applicationId "com.pax.d820"
+        minSdkVersion 10
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.+'
+    compile 'com.android.support:appcompat-v7:19.+'
+    compile files('libs/BaseController_V1.00.07_20160920.jar')
+    compile files('libs/Commonlib_pro_20170217.jar')
+    compile files('libs/CommUart_pro_20160117.jar')
+    compile files('libs/E810_PosApi_V1.0.jar')
+    compile files('libs/E820_S300_SDK.jar')
+    compile files('libs/ImgLib_20160111.jar')
+    compile files('libs/MposProtoBaiFuTong_pro_20160812.jar')
+    compile files('libs/YuMei_V20160815.jar')
+}

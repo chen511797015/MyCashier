@@ -1,0 +1,100 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.+
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:19.+
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+android-support-v7-appcompat => [com.android.support:appcompat-v7:19.+]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => paxPluginDemo\src\main\AndroidManifest.xml
+* assets\ => paxPluginDemo\src\main\assets\
+* libs\armeabi-v7a\libimglib.so => paxPluginDemo\src\main\jniLibs\armeabi-v7a\libimglib.so
+* libs\armeabi-v7a\libserial_port_pax.so => paxPluginDemo\src\main\jniLibs\armeabi-v7a\libserial_port_pax.so
+* libs\armeabi\libimglib.so => paxPluginDemo\src\main\jniLibs\armeabi\libimglib.so
+* libs\armeabi\libserial_port_pax.so => paxPluginDemo\src\main\jniLibs\armeabi\libserial_port_pax.so
+* libs\BaseController_V1.00.07_20160920.jar => paxPluginDemo\libs\BaseController_V1.00.07_20160920.jar
+* libs\Commonlib_pro_20170217.jar => paxPluginDemo\libs\Commonlib_pro_20170217.jar
+* libs\CommUart_pro_20160117.jar => paxPluginDemo\libs\CommUart_pro_20160117.jar
+* libs\E810_PosApi_V1.0.jar => paxPluginDemo\libs\E810_PosApi_V1.0.jar
+* libs\E820_S300_SDK.jar => paxPluginDemo\libs\E820_S300_SDK.jar
+* libs\ImgLib_20160111.jar => paxPluginDemo\libs\ImgLib_20160111.jar
+* libs\mips\libimglib.so => paxPluginDemo\src\main\jniLibs\mips\libimglib.so
+* libs\MposProtoBaiFuTong_pro_20160812.jar => paxPluginDemo\libs\MposProtoBaiFuTong_pro_20160812.jar
+* libs\x86\libimglib.so => paxPluginDemo\src\main\jniLibs\x86\libimglib.so
+* libs\x86\libserial_port_pax.so => paxPluginDemo\src\main\jniLibs\x86\libserial_port_pax.so
+* libs\YuMei_V20160815.jar => paxPluginDemo\libs\YuMei_V20160815.jar
+* res\ => paxPluginDemo\src\main\res\
+* src\ => paxPluginDemo\src\main\java\
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+E:\我的下载\eclipse_64\adt-bundle-windows-x86_64-20131030\sdk
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

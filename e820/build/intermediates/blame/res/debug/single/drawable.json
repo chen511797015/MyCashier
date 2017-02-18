@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_left_botton_amount.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\btn_left_botton_amount.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_left_icon_back.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\btn_left_icon_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\selected_radius.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\selected_radius.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_order_type.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\bg_order_type.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_left_botton_print.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\btn_left_botton_print.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_zhifubao_pay.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\btn_zhifubao_pay.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_yinhang_pay.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\btn_yinhang_pay.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\imaginary_line.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\imaginary_line.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\unselected_radius.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\unselected_radius.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_order_type_p.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\bg_order_type_p.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_weixin_pay.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\drawable\\btn_weixin_pay.xml"
+    }
+]

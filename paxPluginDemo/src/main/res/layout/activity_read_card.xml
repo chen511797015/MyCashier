@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:paddingBottom="20dp"
+    android:orientation="vertical" >
+    
+    <include 
+        layout="@layout/activity_top"
+        />
+    
+    <TextView 
+        android:id="@+id/tv_num"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/amount"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:padding="10dp"
+        />
+    
+    <View 
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/grey"
+        />
+    
+    <TextView 
+        android:layout_marginTop="10dp"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/please_enter_the_pos_card_or_credit_card_and_password_or_tap"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textColor="@color/grey6"
+        />
+    
+    <ImageView
+        android:id="@+id/iv_gif"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/pay01"
+        android:layout_gravity="center_horizontal"
+        />
+    
+
+</LinearLayout>

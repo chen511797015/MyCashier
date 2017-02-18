@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        >
+        
+        <!-- <com.pax.e820.view.MarqueeTextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="40dp"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize8" /> -->
+        
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="40dp"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize8" />
+
+
+        <TextView
+            android:id="@+id/tv_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize3" />
+        
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_marginTop="21.5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize3" />
+        
+        
+        
+        <View 
+            android:layout_width="match_parent"
+            android:layout_marginTop="43dp"
+            android:layout_height="1dp"
+            android:background="@color/grey97"
+            />
+        
+    </RelativeLayout>
+
+</LinearLayout>

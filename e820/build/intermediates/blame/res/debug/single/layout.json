@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_type.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\layout\\activity_pay_type.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\layout\\item_ordered.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\layout\\item_ordered.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\layout\\item_banner.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\layout\\item_banner.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\layout\\item_order_type.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\layout\\item_order_type.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\layout\\item_order.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\layout\\item_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\layout\\item_ordered_print.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\layout\\item_ordered_print.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\res\\merged\\debug\\layout\\activity_different.xml",
+        "source": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\layout\\activity_different.xml"
+    }
+]

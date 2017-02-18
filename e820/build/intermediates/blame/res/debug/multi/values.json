@@ -1,0 +1,562 @@
+[
+    {
+        "outputFile": "D:\\AndroidDemo\\MyCashier\\e820\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 40,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 39,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 39,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 136,
+                    "endColumn": 38,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 38,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 39,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 39,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 38,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 38,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 39,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 39,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 39,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 39,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 39,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 39,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 40,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 40,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 44,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 44,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 40,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 40,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 501,
+                    "endColumn": 39,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 39,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 36,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 36,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 36,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 36,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 36,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 36,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 36,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 36,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 36,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 36,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 40,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 40,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 40,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 40,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 40,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 40,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 40,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 40,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 40,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 40,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 39,
+                    "endOffset": 966
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 39,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 971,
+                    "endColumn": 40,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endColumn": 40,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 40,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 40,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 47,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 47,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 52,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1440
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1445,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1600
+                },
+                "from": {
+                    "file": "D:\\AndroidDemo\\MyCashier\\e820\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

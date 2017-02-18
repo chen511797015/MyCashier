@@ -1,0 +1,3 @@
+include ':app'
+include ':e820'
+include ':paxPluginDemo'

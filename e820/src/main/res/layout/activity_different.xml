@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/menu_List"
+            android:textColor="@color/grey6"
+            android:textSize="@dimen/size4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/order_number"
+            android:textColor="@color/grey6"
+            android:textSize="@dimen/size1" />
+
+        <ListView
+            android:id="@+id/lv_different"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stackFromBottom="true"
+			android:transcriptMode="alwaysScroll"
+			android:layout_marginBottom="30dp"
+            android:dividerHeight="0dp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/total"
+            android:textColor="@color/grey6"
+            android:textSize="@dimen/size1" />
+
+        <TextView
+            android:id="@+id/tv_different_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/grey6"
+            android:textSize="@dimen/size1" />
+    </RelativeLayout>
+    
+ 	<com.pax.e820.view.LoopViewPager  
+        android:id="@+id/viewpager"  
+        android:background="@color/white"
+        android:layout_width="match_parent"  
+        android:layout_height="match_parent"/> 
+        
+        <!-- <com.youth.banner.Banner   
+                       android:id="@+id/banner"  
+                       android:layout_width="match_parent"  
+                       android:layout_height="match_parent"  
+                       />   -->
+
+</RelativeLayout>
